@@ -1,5 +1,7 @@
 # Symulator Lotu Spadochronem
 
+author: Benedykt Bela
+
 Program umożliwia symulację parametrów lotu ze spadochronem w czasie rzeczywistym. Użytkownik zadaje parametry:
 * masy spadającego przedmiotu
 * oporów powietrza
