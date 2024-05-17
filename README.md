@@ -10,5 +10,5 @@ Po wciśnięciu przycisku `start` program zaczyna symulację, wyświetlając up�
 * wysokości
 * przyspieszenia
 
-
+![Screen okna programu.](/Program_Screen.jpg)
   
