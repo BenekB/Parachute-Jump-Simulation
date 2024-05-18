@@ -1,16 +1,16 @@
-# Symulator Lotu Spadochronem
+# Simulation of falling with a parachute
 
 author: Benedykt Bela
 
-Program umożliwia symulację parametrów lotu ze spadochronem w czasie rzeczywistym. Użytkownik zadaje parametry:
-* masy spadającego przedmiotu
-* oporów powietrza
-* wysokości początkowej
+This program gives the possibility to simulate objects falling with a parachute in real time. The user-defined parameters are:
+* falling object's mass
+* air resistance force
+* elevation at the beginning
 
-Po wciśnięciu przycisku `start` program zaczyna symulację, wyświetlając upływający czas oraz parametry ruchu. Po zakończeniu symulacji (uderzeniu przedmiotu w ziemię) wyświetlane są wykresy: 
-* prędkości
-* wysokości
-* przyspieszenia
+After clicking `start` button, program starts the simulation. It presents time and motion poarameters in GUI. After the simulation's end (hitting the object into the ground) a charts are displayed of:
+* speed
+* elevation
+* acceleration
 
 ![Screen okna programu.](/Program_Screen.jpg)
   
